@@ -1,3 +1,4 @@
 # MovieSearch
-Webpage searching movies
-Using API from somewhere @@
+Webpage searching movies \n
+Using API from somewhere @@ \n
+Practise for AJAX
